@@ -1,1 +1,26 @@
+1.Pandas Foundation
+a.Dissceting the Anatomy of a DataFrame:
+{ Many Series method return another Series
+ This leads to calling further methods in succesion}  <<Method Chainging>>
 
+===>Index and RangeIndex Objects
+.Index and Rangeindex object are very similar
+.Represents same thing but along diffrent axes
+.Occasionally reffred to as row index and column index
+
+-->Accessing main DataFrame components
+-->Understanding data types
+-->Selecting single column of data as a Series
+-->Calling Series method and working with operators on a Series
+-->Changing Series method together
+-->Making rows and columns names
+-->Creating and deleting columns
+
+2.Essential DataFrame
+3.Beginning Data Analysis
+4.Selecting Subsets of Data
+5.Boolean Indexing
+6.Index Alignment
+7.Grouping for Aggregation,Filtration and Transformation
+8.Restructuring Data into Tidy Form
+9.Combining Pandas Objects
